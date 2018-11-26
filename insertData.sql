@@ -1,0 +1,1 @@
+INSERT INTO inforamtion(info_name,info_Sex,info_mobile,info_city) VALUES('SWafa','Female',0535293498,'Riyadh');
